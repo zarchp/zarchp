@@ -22,10 +22,6 @@
 
 ![Anzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zarchp&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zarchp&theme=radical)  
-
-[![Anzar's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zarchp&title_color=fe65b0&text_color=ffffff&bg_color=0d1117&layout=compact)](https://wakatime.com/@zarchp)  
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%2C399%20hrs%2048%20mins-blue)
 
