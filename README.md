@@ -8,11 +8,11 @@
 🚀 Building modern apps with the **RILT Stack** (React, Inertia, Laravel, TypeScript)  
 ✨ And the **TALL Stack** (Tailwind, Alpine.js, Laravel, Livewire)  
 🔭 I’m currently **looking for new job opportunities** as a Full-Stack Developer (Laravel + React).  
-🌱 I’m currently learning **NativePHP**, **AI integrations**, and **MCP (Model Context Protocol)**, while diving deeper into **SSR & React**.  
+🌱 I’m currently learning **NativePHP**, **AI integrations**, and **MCP**, while diving deeper into **SSR & React**.  
 👯 I’m looking to collaborate on **open-source tools, Laravel packages, and React/TypeScript projects**.  
-💬 Ask me about **Laravel (TALL stack), React/TypeScript, Inertia, testing (Pest/Jest), SEO, and DevOps automation**.  
-📫 How to reach me: **[anzar.dev](https://anzar.dev)** or [LinkedIn](https://linkedin.com/in/anzar-syahid).  
-⚡ Fun fact: I love **reading books and playing board games** — often blending both hobbies into my digital side projects.  
+💬 Ask me about anything related to **Laravel, React/TypeScript, RILT/TALL, automation testing (Pest/Jest), SEO, and DevOps**.  
+📫 Reach me at **[anzar.dev](https://anzar.dev)** or [LinkedIn](https://linkedin.com/in/anzar-syahid) or [X](https://x.com/ZarChp).  
+⚡ Outside of coding, I enjoy reading books 📚 and playing board games 🎲.  
 
 
 ## 🛠️ Tech Stack  
