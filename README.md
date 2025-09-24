@@ -23,20 +23,54 @@
 ![Anzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zarchp&show_icons=true&theme=radical)  
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C407%20hrs%2016%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 346.1 kB Used in GitHub's Storage 
  > 
-> 🏆 95 Contributions in the Year 2025
+> 🏆 35 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 12 Public Repositories 
  > 
-> 🔑 4 Private Repositories 
+> 🔑 5 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                324 commits         ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
+🌆 Daytime                693 commits         ████████████░░░░░░░░░░░░░   48.26 % 
+🌃 Evening                417 commits         ███████░░░░░░░░░░░░░░░░░░   29.04 % 
+🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   318 commits         ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
+Tuesday                  322 commits         ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
+Wednesday                277 commits         █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+Thursday                 221 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+Friday                   194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Saturday                 34 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Sunday                   70 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+PHP                      5 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   39.54 % 
+TypeScript               4 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   33.51 % 
+Other                    1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Blade Template           53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+CSS                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+```
+
 **I Mostly Code in PHP** 
 
 ```text
@@ -48,5 +82,5 @@ TypeScript               2 repos             ████░░░░░░░�
 
 
 
- Last Updated on 23/09/2025 01:18:29 UTC
+ Last Updated on 24/09/2025 01:19:16 UTC
 <!--END_SECTION:waka-->
