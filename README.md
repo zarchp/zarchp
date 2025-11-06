@@ -23,13 +23,13 @@
 <!--![Anzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zarchp&show_icons=true&theme=radical)-->  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C500%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C500%20hrs%2055%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 533.8 kB Used in GitHub's Storage 
+> 📦 533.9 kB Used in GitHub's Storage 
  > 
 > 🏆 40 Contributions in the Year 2025
  > 
@@ -37,7 +37,7 @@
  > 
 > 📜 13 Public Repositories 
  > 
-> 🔑 7 Private Repositories 
+> 🔑 8 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -64,23 +64,22 @@ Sunday                   76 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      2 hrs 31 mins       ██████████████░░░░░░░░░░░   56.50 % 
-TypeScript               1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
-TSConfig                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-Blade Template           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+TypeScript               1 hr 23 mins        ██████████████████░░░░░░░   73.75 % 
+TSConfig                 15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+JSON                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
-**I Mostly Code in PHP** 
+**I Mostly Code in TypeScript** 
 
 ```text
-PHP                      6 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-TypeScript               5 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Blade                    4 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+TypeScript               6 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
+PHP                      6 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
+Blade                    4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 ```
 
 
 
 
- Last Updated on 05/11/2025 01:25:26 UTC
+ Last Updated on 06/11/2025 01:25:33 UTC
 <!--END_SECTION:waka-->
