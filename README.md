@@ -23,15 +23,15 @@
 <!--![Anzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zarchp&show_icons=true&theme=radical)-->  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C523%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C524%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 533.9 kB Used in GitHub's Storage 
+> 📦 534.1 kB Used in GitHub's Storage 
  > 
-> 🏆 50 Contributions in the Year 2025
+> 🏆 55 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -39,6 +39,38 @@
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                350 commits         ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
+🌆 Daytime                757 commits         ████████████░░░░░░░░░░░░░   48.37 % 
+🌃 Evening                456 commits         ███████░░░░░░░░░░░░░░░░░░   29.14 % 
+🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   337 commits         █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+Tuesday                  341 commits         █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
+Wednesday                308 commits         █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+Thursday                 232 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+Friday                   231 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Saturday                 40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Sunday                   76 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               1 hr 25 mins        ████████░░░░░░░░░░░░░░░░░   31.68 % 
+Vue.js                   1 hr 15 mins        ███████░░░░░░░░░░░░░░░░░░   28.10 % 
+JSON                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Other                    30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Blade Template           15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+```
+
 **I Mostly Code in PHP** 
 
 ```text
@@ -51,5 +83,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/12/2025 01:27:28 UTC
+ Last Updated on 04/12/2025 01:27:43 UTC
 <!--END_SECTION:waka-->
