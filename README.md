@@ -23,7 +23,7 @@
 <!--![Anzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zarchp&show_icons=true&theme=radical)-->  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C756%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C757%20hrs%2046%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.27%20million%20lines%20of%20code-blue?style=flat)
 
@@ -64,11 +64,11 @@ Sunday                   253 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      12 hrs 25 mins      █████████████░░░░░░░░░░░░   53.28 % 
-Blade Template           6 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   28.55 % 
-CSS                      1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-JSON                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-Markdown                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+PHP                      11 hrs 41 mins      █████████████░░░░░░░░░░░░   51.53 % 
+Blade Template           6 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   27.44 % 
+CSS                      1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+JavaScript               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+JSON                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -83,5 +83,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 08/06/2026 03:55:25 UTC
+ Last Updated on 09/06/2026 02:59:01 UTC
 <!--END_SECTION:waka-->
