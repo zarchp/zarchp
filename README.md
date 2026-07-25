@@ -23,11 +23,13 @@
 <!--![Anzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zarchp&show_icons=true&theme=radical)-->  
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C854%20hrs%2037%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.14%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 546.8 kB Used in GitHub's Storage 
+> 📦 546.7 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -40,21 +42,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                838 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
-🌆 Daytime                2300 commits        ████████████░░░░░░░░░░░░░   47.94 % 
-🌃 Evening                1653 commits        █████████░░░░░░░░░░░░░░░░   34.45 % 
+🌞 Morning                839 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+🌆 Daytime                2309 commits        ████████████░░░░░░░░░░░░░   48.02 % 
+🌃 Evening                1653 commits        █████████░░░░░░░░░░░░░░░░   34.38 % 
 🌙 Night                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1345 commits        ███████░░░░░░░░░░░░░░░░░░   28.03 % 
-Tuesday                  933 commits         █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-Wednesday                717 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Thursday                 780 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-Friday                   471 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+Monday                   1345 commits        ███████░░░░░░░░░░░░░░░░░░   27.97 % 
+Tuesday                  933 commits         █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+Wednesday                717 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Thursday                 780 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Friday                   481 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 Saturday                 120 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-Sunday                   432 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Sunday                   432 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
 ```
 
 
@@ -62,11 +64,11 @@ Sunday                   432 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      6 hrs 27 mins       ████████████████░░░░░░░░░   65.90 % 
-JSON                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-Bash                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-YAML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-shell script             24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+PHP                      7 hrs 1 min         ██████████████████░░░░░░░   70.58 % 
+Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+YAML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+shell script             24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -81,5 +83,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 02:34:06 UTC
+ Last Updated on 25/07/2026 02:32:37 UTC
 <!--END_SECTION:waka-->
