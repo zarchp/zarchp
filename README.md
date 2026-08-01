@@ -23,11 +23,11 @@
 <!--![Anzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zarchp&show_icons=true&theme=radical)-->  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C682%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C683%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-171%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-173%20hrs%2012%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.14%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.15%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -44,21 +44,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                839 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-🌆 Daytime                2309 commits        ████████████░░░░░░░░░░░░░   47.99 % 
-🌃 Evening                1656 commits        █████████░░░░░░░░░░░░░░░░   34.42 % 
-🌙 Night                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+🌞 Morning                871 commits         █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+🌆 Daytime                2295 commits        ████████████░░░░░░░░░░░░░   47.49 % 
+🌃 Evening                1660 commits        █████████░░░░░░░░░░░░░░░░   34.35 % 
+🌙 Night                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1345 commits        ███████░░░░░░░░░░░░░░░░░░   27.96 % 
-Tuesday                  933 commits         █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-Wednesday                717 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Thursday                 780 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Friday                   481 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Saturday                 120 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Sunday                   435 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+Monday                   1344 commits        ███████░░░░░░░░░░░░░░░░░░   27.81 % 
+Tuesday                  943 commits         █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+Wednesday                710 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Thursday                 772 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Friday                   509 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Saturday                 120 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Sunday                   435 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
 ```
 
 
@@ -66,35 +66,35 @@ Sunday                   435 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      5 hrs 9 mins        ██████████████████░░░░░░░   72.25 % 
-CSS                      50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Markdown                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-Blade Template           19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+PHP                      4 hrs 38 mins       █████████████████░░░░░░░░   68.60 % 
+CSS                      50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Blade Template           19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 36 mins (92.34%)
+⏱ AI Coding Time: 6 hrs 5 mins (90.03%)
 
-✍️ 1,841 lines written by AI, 52 lines written by hand (97.25% AI-written)
+✍️ 3,429 lines written by AI, 57 lines written by hand (98.36% AI-written)
 
-🔤 2,394,899 Input Tokens, 154,080 Output Tokens
+🔤 2,279,326 Input Tokens, 176,069 Output Tokens
 
-💵 $9.50 Estimated AI Cost This Week
+💵 $9.48 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 99 AI Prompts
+🧠 36 AI Sessions, 88 AI Prompts
 
-M                        1,759 lines         ██████████████████████░░░   88.61 % 
-Glm                      226 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Glm                      2,152 lines         ███████████████░░░░░░░░░░   59.99 % 
+M                        1,435 lines         ██████████░░░░░░░░░░░░░░░   40.01 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.25% of written lines came from AI
-📚 Verbose Prompter — average 1,887 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 4.11% of changed lines were hand-edited
+🤖 AI-Driven — 98.36% of written lines came from AI
+📚 Verbose Prompter — average 2,178 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 2.45% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -109,5 +109,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 02:42:20 UTC
+ Last Updated on 01/08/2026 02:40:07 UTC
 <!--END_SECTION:waka-->
