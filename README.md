@@ -66,32 +66,31 @@ Sunday                   488 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      1 hr 9 mins         █████████████████░░░░░░░░   68.25 % 
-JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Blade Template           8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-CSS                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+PHP                      40 mins             █████████████████████████   99.84 % 
+jsonc                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Blade Template           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 29 mins (87.26%)
+⏱ AI Coding Time: 33 mins (81.97%)
 
-✍️ 401 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 275 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 721,315 Input Tokens, 49,893 Output Tokens
+🔤 245,346 Input Tokens, 23,074 Output Tokens
 
-💵 $2.91 Estimated AI Cost This Week
+💵 $1.08 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 17 AI Prompts
+🧠 4 AI Sessions, 6 AI Prompts
 
-M                        557 lines           █████████████████████████   100.00 % 
+M                        353 lines           █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,012 characters per prompt
+📚 Verbose Prompter — average 4,853 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -108,5 +107,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 01:41:47 UTC
+ Last Updated on 11/08/2026 01:38:57 UTC
 <!--END_SECTION:waka-->
