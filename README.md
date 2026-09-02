@@ -23,7 +23,7 @@
 <!--![Anzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zarchp&show_icons=true&theme=radical)-->  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C695%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C695%20hrs%2019%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-180%20hrs%2057%20mins-blue?style=flat)
 
@@ -44,17 +44,17 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1036 commits        █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-🌆 Daytime                2680 commits        ████████████░░░░░░░░░░░░░   48.40 % 
-🌃 Evening                1814 commits        ████████░░░░░░░░░░░░░░░░░   32.76 % 
+🌞 Morning                1038 commits        █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+🌆 Daytime                2681 commits        ████████████░░░░░░░░░░░░░   48.39 % 
+🌃 Evening                1814 commits        ████████░░░░░░░░░░░░░░░░░   32.74 % 
 🌙 Night                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1459 commits        ███████░░░░░░░░░░░░░░░░░░   26.35 % 
-Tuesday                  1061 commits        █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-Wednesday                784 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Monday                   1459 commits        ███████░░░░░░░░░░░░░░░░░░   26.34 % 
+Tuesday                  1064 commits        █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Wednesday                784 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
 Thursday                 905 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
 Friday                   659 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
 Saturday                 128 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
@@ -66,17 +66,17 @@ Sunday                   541 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     52 mins             ██████████░░░░░░░░░░░░░░░   41.56 % 
-Markdown                 50 mins             ██████████░░░░░░░░░░░░░░░   39.69 % 
-PHP                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-CSS                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-env                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+JSON                     52 mins             ██████████░░░░░░░░░░░░░░░   40.47 % 
+Markdown                 50 mins             ██████████░░░░░░░░░░░░░░░   38.66 % 
+PHP                      19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+CSS                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+Blade Template           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (6.57%)
+⏱ AI Coding Time: 8 mins (6.39%)
 
 ✍️ 3 lines written by AI, 9 lines written by hand (25.0% AI-written)
 
@@ -108,5 +108,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 03:40:55 UTC
+ Last Updated on 02/09/2026 02:59:05 UTC
 <!--END_SECTION:waka-->
