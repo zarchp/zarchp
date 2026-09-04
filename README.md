@@ -23,7 +23,7 @@
 <!--![Anzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zarchp&show_icons=true&theme=radical)-->  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C695%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C695%20hrs%2040%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-180%20hrs%2057%20mins-blue?style=flat)
 
@@ -66,34 +66,17 @@ Sunday                   541 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     52 mins             ███████████░░░░░░░░░░░░░░   42.79 % 
-Markdown                 51 mins             ██████████░░░░░░░░░░░░░░░   41.65 % 
-PHP                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-CSS                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-env                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Markdown                 59 mins             ███████████░░░░░░░░░░░░░░   45.91 % 
+JSON                     51 mins             ██████████░░░░░░░░░░░░░░░   40.08 % 
+CSS                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+PHP                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (6.77%)
-
-✍️ 3 lines written by AI, 9 lines written by hand (25.0% AI-written)
-
-🔤 48,647 Input Tokens, 846 Output Tokens
-
-💵 $1.38 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-Glm                      3 lines             █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 25.0% of written lines came from AI
-📚 Verbose Prompter — average 15,711 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 75.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -108,5 +91,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 03:01:55 UTC
+ Last Updated on 04/09/2026 03:01:01 UTC
 <!--END_SECTION:waka-->
