@@ -23,9 +23,9 @@
 <!--![Anzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zarchp&show_icons=true&theme=radical)-->  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C697%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C697%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-181%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-181%20hrs%2058%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.70%20million%20lines%20of%20code-blue?style=flat)
 
@@ -66,32 +66,32 @@ Sunday                   541 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      53 mins             ████████████░░░░░░░░░░░░░   46.47 % 
-Markdown                 28 mins             ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
-Ezhil                    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Bash                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+PHP                      53 mins             ███████████░░░░░░░░░░░░░░   44.29 % 
+Markdown                 28 mins             ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+Ezhil                    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 55 mins (48.69%)
+⏱ AI Coding Time: 1 hr 1 min (51.1%)
 
 ✍️ 219 lines written by AI, 2 lines written by hand (99.1% AI-written)
 
-🔤 321,769 Input Tokens, 36,786 Output Tokens
+🔤 361,843 Input Tokens, 36,995 Output Tokens
 
-💵 $24.49 Estimated AI Cost This Week
+💵 $24.97 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 19 AI Prompts
+🧠 9 AI Sessions, 20 AI Prompts
 
 Glm                      226 lines           █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.1% of written lines came from AI
-📄 Detailed Prompter — average 1,184 characters per prompt
+📄 Detailed Prompter — average 1,127 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.88% of changed lines were hand-edited
 ```
@@ -108,5 +108,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2026 03:01:59 UTC
+ Last Updated on 07/09/2026 02:59:47 UTC
 <!--END_SECTION:waka-->
