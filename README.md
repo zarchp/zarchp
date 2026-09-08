@@ -23,15 +23,15 @@
 <!--![Anzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zarchp&show_icons=true&theme=radical)-->  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C697%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C697%20hrs%2018%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-181%20hrs%2058%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.70%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.10%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 547.1 kB Used in GitHub's Storage 
+> 📦 582.6 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -44,21 +44,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1038 commits        █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-🌆 Daytime                2681 commits        ████████████░░░░░░░░░░░░░   48.37 % 
-🌃 Evening                1817 commits        ████████░░░░░░░░░░░░░░░░░   32.78 % 
-🌙 Night                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+🌞 Morning                1351 commits        █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+🌆 Daytime                3103 commits        ████████████░░░░░░░░░░░░░   47.36 % 
+🌃 Evening                2091 commits        ████████░░░░░░░░░░░░░░░░░   31.91 % 
+🌙 Night                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1459 commits        ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-Tuesday                  1064 commits        █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
-Wednesday                787 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Thursday                 905 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Friday                   659 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Saturday                 128 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-Sunday                   541 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Monday                   1656 commits        ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
+Tuesday                  1261 commits        █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+Wednesday                955 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Thursday                 1139 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+Friday                   797 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Saturday                 154 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Sunday                   590 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
 ```
 
 
@@ -66,19 +66,19 @@ Sunday                   541 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      53 mins             ███████████░░░░░░░░░░░░░░   44.29 % 
-Markdown                 28 mins             ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
-Ezhil                    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+PHP                      56 mins             ████████████░░░░░░░░░░░░░   46.04 % 
+Markdown                 30 mins             ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
+Ezhil                    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+log                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 1 min (51.1%)
+⏱ AI Coding Time: 1 hr 1 min (50.16%)
 
-✍️ 219 lines written by AI, 2 lines written by hand (99.1% AI-written)
+✍️ 219 lines written by AI, 180 lines written by hand (54.89% AI-written)
 
 🔤 361,843 Input Tokens, 36,995 Output Tokens
 
@@ -90,10 +90,10 @@ Glm                      226 lines           ███████████�
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.1% of written lines came from AI
+⚖️ Balanced with AI — 54.89% of written lines came from AI
 📄 Detailed Prompter — average 1,127 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.88% of changed lines were hand-edited
+🚀 High AI Trust — 44.33% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -108,5 +108,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 02:59:47 UTC
+ Last Updated on 08/09/2026 03:10:06 UTC
 <!--END_SECTION:waka-->
