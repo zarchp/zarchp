@@ -66,34 +66,33 @@ Sunday                   590 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   29.35 % 
-Markdown                 1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
-PHP                      53 mins             █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-Ezhil                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+TypeScript               1 hr 35 mins        ███████████░░░░░░░░░░░░░░   44.04 % 
+Markdown                 53 mins             ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
+JSON                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 1 min (20.85%)
+⏱ AI Coding Time: 5 mins (2.59%)
 
-✍️ 219 lines written by AI, 1,799 lines written by hand (10.85% AI-written)
+✍️ 0 lines written by AI, 1,798 lines written by hand (0.0% AI-written)
 
-🔤 361,843 Input Tokens, 36,995 Output Tokens
+🔤 40,074 Input Tokens, 209 Output Tokens
 
-💵 $24.97 Estimated AI Cost This Week
+💵 $0.48 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 20 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
-Glm                      226 lines           █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 10.85% of written lines came from AI
-📄 Detailed Prompter — average 1,127 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 88.85% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 37 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -108,5 +107,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 03:07:13 UTC
+ Last Updated on 12/09/2026 03:13:34 UTC
 <!--END_SECTION:waka-->
