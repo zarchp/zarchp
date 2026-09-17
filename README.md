@@ -23,7 +23,7 @@
 <!--![Anzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zarchp&show_icons=true&theme=radical)-->  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C700%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C700%20hrs%2056%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-181%20hrs%2058%20mins-blue?style=flat)
 
@@ -44,21 +44,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1351 commits        █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-🌆 Daytime                3103 commits        ████████████░░░░░░░░░░░░░   47.36 % 
-🌃 Evening                2091 commits        ████████░░░░░░░░░░░░░░░░░   31.91 % 
+🌞 Morning                1351 commits        █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+🌆 Daytime                3108 commits        ████████████░░░░░░░░░░░░░   47.38 % 
+🌃 Evening                2094 commits        ████████░░░░░░░░░░░░░░░░░   31.92 % 
 🌙 Night                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1656 commits        ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
-Tuesday                  1261 commits        █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-Wednesday                955 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Thursday                 1139 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-Friday                   797 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Monday                   1656 commits        ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
+Tuesday                  1261 commits        █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+Wednesday                959 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Thursday                 1141 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Friday                   799 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
 Saturday                 154 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-Sunday                   590 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Sunday                   590 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
 ```
 
 
@@ -66,11 +66,11 @@ Sunday                   590 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 35 mins        ████████████░░░░░░░░░░░░░   48.61 % 
-Markdown                 39 mins             █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-JSON                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+TypeScript               1 hr 1 min          ██████████████░░░░░░░░░░░   56.98 % 
+JavaScript               16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+JSON                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+YAML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+PHP                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -91,5 +91,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 03:27:08 UTC
+ Last Updated on 17/09/2026 03:32:18 UTC
 <!--END_SECTION:waka-->
