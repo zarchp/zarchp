@@ -23,7 +23,7 @@
 <!--![Anzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zarchp&show_icons=true&theme=radical)-->  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C701%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C701%20hrs%2046%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-181%20hrs%2058%20mins-blue?style=flat)
 
@@ -66,11 +66,11 @@ Sunday                   590 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     34 mins             ████████████████░░░░░░░░░   63.34 % 
-PHP                      9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-JavaScript               6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-log                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+JSON                     34 mins             ████████████░░░░░░░░░░░░░   48.07 % 
+PHP                      22 mins             ████████░░░░░░░░░░░░░░░░░   30.93 % 
+JavaScript               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Blade Template           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -91,5 +91,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026 03:18:48 UTC
+ Last Updated on 19/09/2026 03:14:19 UTC
 <!--END_SECTION:waka-->
