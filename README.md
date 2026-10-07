@@ -23,7 +23,7 @@
 <!--![Anzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zarchp&show_icons=true&theme=radical)-->  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C705%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C706%20hrs%2016%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-182%20hrs%2019%20mins-blue?style=flat)
 
@@ -66,19 +66,19 @@ Sunday                   594 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      46 mins             ████████░░░░░░░░░░░░░░░░░   31.41 % 
-JavaScript               44 mins             ████████░░░░░░░░░░░░░░░░░   30.11 % 
-Markdown                 19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-CSS                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+PHP                      46 mins             ███████░░░░░░░░░░░░░░░░░░   27.76 % 
+JavaScript               44 mins             ███████░░░░░░░░░░░░░░░░░░   26.62 % 
+Markdown                 19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+log                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+CSS                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 49 mins (33.46%)
+⏱ AI Coding Time: 49 mins (29.58%)
 
-✍️ 143 lines written by AI, 247 lines written by hand (36.67% AI-written)
+✍️ 143 lines written by AI, 517 lines written by hand (21.67% AI-written)
 
 🔤 518,573 Input Tokens, 64,732 Output Tokens
 
@@ -91,10 +91,10 @@ Glm                      4 lines             █░░░░░░░░░░�
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 36.67% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 21.67% of written lines came from AI
 📄 Detailed Prompter — average 1,364 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 62.16% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 77.25% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -109,5 +109,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 05:00:06 UTC
+ Last Updated on 07/10/2026 04:26:46 UTC
 <!--END_SECTION:waka-->
