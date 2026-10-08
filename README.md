@@ -23,7 +23,7 @@
 <!--![Anzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zarchp&show_icons=true&theme=radical)-->  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C706%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C706%20hrs%2027%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-182%20hrs%2019%20mins-blue?style=flat)
 
@@ -45,20 +45,20 @@
 
 ```text
 🌞 Morning                1355 commits        █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
-🌆 Daytime                3134 commits        ████████████░░░░░░░░░░░░░   47.25 % 
-🌃 Evening                2137 commits        ████████░░░░░░░░░░░░░░░░░   32.22 % 
+🌆 Daytime                3135 commits        ████████████░░░░░░░░░░░░░   47.26 % 
+🌃 Evening                2137 commits        ████████░░░░░░░░░░░░░░░░░   32.21 % 
 🌙 Night                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday                   1687 commits        ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
-Tuesday                  1266 commits        █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-Wednesday                968 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Tuesday                  1266 commits        █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Wednesday                969 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
 Thursday                 1151 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
 Friday                   813 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
 Saturday                 154 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-Sunday                   594 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Sunday                   594 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
 ```
 
 
@@ -66,35 +66,35 @@ Sunday                   594 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      46 mins             ███████░░░░░░░░░░░░░░░░░░   27.76 % 
-JavaScript               44 mins             ███████░░░░░░░░░░░░░░░░░░   26.62 % 
-Markdown                 19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-log                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-CSS                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+JavaScript               44 mins             ███████░░░░░░░░░░░░░░░░░░   29.06 % 
+PHP                      30 mins             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Markdown                 19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+log                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+CSS                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 49 mins (29.58%)
+⏱ AI Coding Time: 24 mins (16.03%)
 
-✍️ 143 lines written by AI, 517 lines written by hand (21.67% AI-written)
+✍️ 2 lines written by AI, 517 lines written by hand (0.39% AI-written)
 
-🔤 518,573 Input Tokens, 64,732 Output Tokens
+🔤 307,257 Input Tokens, 24,388 Output Tokens
 
-💵 $41.25 Estimated AI Cost This Week
+💵 $8.73 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 11 AI Prompts
+🧠 5 AI Sessions, 10 AI Prompts
 
-GLM                      150 lines           ████████████████████████░   97.40 % 
-Glm                      4 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Glm                      4 lines             █████████████████████████   100.00 % 
+GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 21.67% of written lines came from AI
-📄 Detailed Prompter — average 1,364 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.39% of written lines came from AI
+📄 Detailed Prompter — average 1,490 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 77.25% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.24% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -109,5 +109,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 04:26:46 UTC
+ Last Updated on 08/10/2026 04:37:47 UTC
 <!--END_SECTION:waka-->
