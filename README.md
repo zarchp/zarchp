@@ -66,19 +66,19 @@ Sunday                   594 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 27 mins        ████████████████░░░░░░░░░   64.88 % 
-PHP                      17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+PHP                      8 mins              ██████████░░░░░░░░░░░░░░░   41.65 % 
+Markdown                 5 mins              ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
+TypeScript               4 mins              ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
+CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Blade Template           0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 mins (4.91%)
+⏱ AI Coding Time: 6 mins (30.78%)
 
-✍️ 0 lines written by AI, 467 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
 🔤 57,018 Input Tokens, 449 Output Tokens
 
@@ -89,10 +89,10 @@ JavaScript               4 mins              █░░░░░░░░░░�
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
 📝 Concise Prompter — average 46 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -107,5 +107,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2026 03:08:07 UTC
+ Last Updated on 19/10/2026 03:22:32 UTC
 <!--END_SECTION:waka-->
