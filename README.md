@@ -23,7 +23,7 @@
 <!--![Anzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zarchp&show_icons=true&theme=radical)-->  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C709%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C709%20hrs%2057%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-182%20hrs%2026%20mins-blue?style=flat)
 
@@ -66,33 +66,17 @@ Sunday                   594 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-jsonc                    8 mins              ████████████░░░░░░░░░░░░░   49.17 % 
-PHP                      7 mins              ███████████░░░░░░░░░░░░░░   44.65 % 
-Blade Template           0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+JSON                     23 mins             ██████████████████░░░░░░░   73.28 % 
+jsonc                    8 mins              ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
+PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (49.93%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 57,018 Input Tokens, 449 Output Tokens
-
-💵 $0.83 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 2 AI Prompts
-
-GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 46 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -107,5 +91,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2026 03:30:57 UTC
+ Last Updated on 21/10/2026 03:25:28 UTC
 <!--END_SECTION:waka-->
