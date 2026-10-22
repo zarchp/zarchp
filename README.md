@@ -23,9 +23,9 @@
 <!--![Anzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zarchp&show_icons=true&theme=radical)-->  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C709%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C711%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-182%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-183%20hrs%2038%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.12%20million%20lines%20of%20code-blue?style=flat)
 
@@ -66,17 +66,33 @@ Sunday                   594 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     23 mins             ██████████████████░░░░░░░   73.28 % 
-jsonc                    8 mins              ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
-PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+PHP                      1 hr 10 mins        ███████████████░░░░░░░░░░   58.04 % 
+JSON                     42 mins             █████████░░░░░░░░░░░░░░░░   34.82 % 
+jsonc                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+Blade Template           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 12 mins (59.08%)
+
+✍️ 667 lines written by AI, 3 lines written by hand (99.55% AI-written)
+
+🔤 241,432 Input Tokens, 77,782 Output Tokens
+
+💵 $35.70 Estimated AI Cost This Week
+
+🧠 6 AI Sessions, 13 AI Prompts
+
+GLM                      678 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.55% of written lines came from AI
+📄 Detailed Prompter — average 538 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 1.88% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -91,5 +107,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2026 03:25:28 UTC
+ Last Updated on 22/10/2026 03:23:54 UTC
 <!--END_SECTION:waka-->
