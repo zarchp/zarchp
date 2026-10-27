@@ -23,9 +23,9 @@
 <!--![Anzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zarchp&show_icons=true&theme=radical)-->  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C713%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C714%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-185%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-186%20hrs%2023%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.12%20million%20lines%20of%20code-blue?style=flat)
 
@@ -66,34 +66,34 @@ Sunday                   594 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      2 hrs 40 mins       ██████████████░░░░░░░░░░░   54.72 % 
-JSON                     1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-Other                    33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-CSV                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-jsonc                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+PHP                      3 hrs 14 mins       ███████████████░░░░░░░░░░   58.19 % 
+JSON                     1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+Other                    33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+CSV                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+TypeScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 11 mins (65.44%)
+⏱ AI Coding Time: 3 hrs 56 mins (70.78%)
 
-✍️ 2,797 lines written by AI, 3 lines written by hand (99.89% AI-written)
+✍️ 5,023 lines written by AI, 3 lines written by hand (99.94% AI-written)
 
-🔤 1,049,562 Input Tokens, 243,893 Output Tokens
+🔤 1,509,292 Input Tokens, 309,865 Output Tokens
 
-💵 $46.60 Estimated AI Cost This Week
+💵 $50.92 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 40 AI Prompts
+🧠 20 AI Sessions, 49 AI Prompts
 
-Opus                     2,133 lines         ███████████████████░░░░░░   75.88 % 
-GLM                      678 lines           ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
+Opus                     4,438 lines         ██████████████████████░░░   86.75 % 
+GLM                      678 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.89% of written lines came from AI
-📝 Concise Prompter — average 340 characters per prompt
+🤖 AI-Driven — 99.94% of written lines came from AI
+📝 Concise Prompter — average 292 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.46% of changed lines were hand-edited
+🚀 High AI Trust — 0.25% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -108,5 +108,5 @@ Vue                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 03:20:35 UTC
+ Last Updated on 27/10/2026 03:48:48 UTC
 <!--END_SECTION:waka-->
