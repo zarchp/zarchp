@@ -23,42 +23,42 @@
 <!--![Anzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zarchp&show_icons=true&theme=radical)-->  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C714%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C718%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-186%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-189%20hrs%2047%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.12%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.37%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 583.5 kB Used in GitHub's Storage 
+> 📦 641.7 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 4 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 16 Public Repositories 
  > 
-> 🔑 11 Private Repositories 
+> 🔑 12 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1355 commits        █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-🌆 Daytime                3138 commits        ████████████░░░░░░░░░░░░░   47.27 % 
-🌃 Evening                2138 commits        ████████░░░░░░░░░░░░░░░░░   32.21 % 
+🌞 Morning                1361 commits        █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+🌆 Daytime                3143 commits        ████████████░░░░░░░░░░░░░   47.24 % 
+🌃 Evening                2142 commits        ████████░░░░░░░░░░░░░░░░░   32.20 % 
 🌙 Night                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1688 commits        ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
-Tuesday                  1267 commits        █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-Wednesday                969 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Thursday                 1151 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-Friday                   815 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-Saturday                 154 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-Sunday                   594 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Monday                   1690 commits        ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
+Tuesday                  1267 commits        █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
+Wednesday                977 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Thursday                 1152 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Friday                   817 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Saturday                 154 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Sunday                   596 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
 ```
 
 
@@ -66,47 +66,48 @@ Sunday                   594 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      3 hrs 25 mins       ████████████████░░░░░░░░░   63.10 % 
-JSON                     49 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Other                    33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-CSV                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-TypeScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+PHP                      2 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   30.27 % 
+TypeScript               1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+Astro                    52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+JSON                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Markdown                 42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 5 mins (75.39%)
+⏱ AI Coding Time: 6 hrs 44 mins (86.29%)
 
-✍️ 5,122 lines written by AI, 10 lines written by hand (99.81% AI-written)
+✍️ 11,248 lines written by AI, 7 lines written by hand (99.94% AI-written)
 
-🔤 1,624,752 Input Tokens, 338,238 Output Tokens
+🔤 2,191,355 Input Tokens, 660,401 Output Tokens
 
-💵 $52.43 Estimated AI Cost This Week
+💵 $42.08 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 56 AI Prompts
+🧠 24 AI Sessions, 78 AI Prompts
 
-Opus                     4,538 lines         ██████████████████████░░░   87.00 % 
-GLM                      678 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Opus                     12,583 lines        █████████████████████████   100.00 % 
+GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.81% of written lines came from AI
-📝 Concise Prompter — average 467 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.29% of changed lines were hand-edited
+🤖 AI-Driven — 99.94% of written lines came from AI
+📄 Detailed Prompter — average 1,203 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      10 repos            ███████████░░░░░░░░░░░░░░   43.48 % 
-TypeScript               7 repos             ████████░░░░░░░░░░░░░░░░░   30.43 % 
-Blade                    4 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+PHP                      10 repos            ██████████░░░░░░░░░░░░░░░   41.67 % 
+TypeScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
 
 
 
- Last Updated on 28/10/2026 04:06:22 UTC
+ Last Updated on 29/10/2026 04:29:37 UTC
 <!--END_SECTION:waka-->
